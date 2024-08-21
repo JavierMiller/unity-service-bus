@@ -1,0 +1,21 @@
+{
+  "name": "com.sparkygames.core.servicebus",
+  "displayName": "Sparky Games Service Bus",
+  "version": "1.0.0",
+  "unityRelease": "0a19",
+  "unity": "2020.2",
+  "description": "Sparky Games Service Bus",
+  "keywords": [
+    "2d"
+  ],
+  "category": "2D",
+  "dependencies": {
+  },
+  "relatedPackages": {
+  },
+  "upmCi": {
+    "footprint": "bca436b37805e043886d7938b524bca81be35cc2"
+  },
+  "repository": {
+  }
+}
