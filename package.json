@@ -8,6 +8,10 @@
   "keywords": [
     "2d"
   ],
+  "author": {
+    "name": "Sparky Code Studios",
+    "email": "sparkystudios@proton.me"
+  },
   "category": "2D",
   "dependencies": {
   },
